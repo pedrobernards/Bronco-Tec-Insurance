@@ -1,2 +1,3 @@
 # Bronco Tec Insurance
- Colaboração inovadora da equipe Bronco Tec Insurance! 💻🚀 Junte-se a nós nesta jornada de codificação
+ 
+Bem-vindo ao repositório Bronco Tec Insurance! 💻🚀 Estamos nos estágios iniciais deste projeto empolgante, dedicados a transformar ideias inovadoras em realidade. Junte-se a nós nesta jornada de codificação, onde buscamos melhorias contínuas e exploramos maneiras de aprimorar a estrutura. A equipe da Bronco Tec Insurance é composta por três programadores dedicados, trabalhando em conjunto para liderar o desenvolvimento tanto no front end quanto no back end. Estamos entusiasmados com o futuro e ansiosos para compartilhar nossos avanços! 🌐✨ #BroncoTecInsurance #InovaçãoEmDesenvolvimento
